@@ -21,7 +21,7 @@ Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys 
 <h2>Stats</h2>
 
 ![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=makmalluddin&show_icons=true&theme=radical&card_weight=500px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_weight=500px)
 
 <!---
 makmalluddin/makmalluddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
