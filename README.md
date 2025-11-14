@@ -13,6 +13,11 @@ Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys 
 </p>
 
 <h2>Technologies</h2>
+h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+</p>
+
+<h2>Stats</h2>
 [![Udin GitHub stats](https://github-readme-stats.vercel.app/api?username=udin)](https://github.com/makmalluddin/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
