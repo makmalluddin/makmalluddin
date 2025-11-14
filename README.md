@@ -3,11 +3,16 @@
 
 <h2>About Me</h2>
 Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys learning new technologies and solving problems through analytical thinking. With experience in electronics, computational analysis, and data-driven projects, I love exploring how technology can create practical and meaningful solutions. Right now, I’m looking for new opportunities where I can contribute, grow, and continue developing my skills in a dynamic and supportive environment. I’m always excited to collaborate, take on new challenges, and keep expanding my knowledge.
-- 👋 Hi, I’m @makmalluddin
-- 👀 I’m interested in Data Processing
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
+<h2>Technologies</h2>
 [![Udin GitHub stats](https://github-readme-stats.vercel.app/api?username=udin)](https://github.com/makmalluddin/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
