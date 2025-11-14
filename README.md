@@ -14,7 +14,7 @@ Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys 
 
 <h2>Technologies</h2>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <h2>Stats</h2>
 [![Udin GitHub stats](https://github-readme-stats.vercel.app/api?username=udin)](https://github.com/makmalluddin/github-readme-stats)
