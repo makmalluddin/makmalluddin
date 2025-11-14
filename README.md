@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/makmalluddin/makmalluddin/blob/453b523fd7be181ffa6a6616265b4df28021a9bc/header_2.png)](https://github.com/makmalluddin/makmalluddin)
 
-<p align="center">![](https://komarev.com/ghpvc/?username=makmalluddin&color=lightgrey)</p>
+![](https://komarev.com/ghpvc/?username=makmalluddin&color=lightgrey)
 
 - 👋 Hi, I’m @makmalluddin
 - 👀 I’m interested in Data Processing
