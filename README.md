@@ -4,16 +4,7 @@
 <h2>About Me</h2>
 Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys learning new technologies and solving problems through analytical thinking. With experience in electronics, computational analysis, and data-driven projects, I love exploring how technology can create practical and meaningful solutions. Right now, I’m looking for new opportunities where I can contribute, grow, and continue developing my skills in a dynamic and supportive environment. I’m always excited to collaborate, take on new challenges, and keep expanding my knowledge.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" color="white" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-
 <h2>Technologies</h2>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" alt="c" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" alt="c" width="40" height="40"/></a>
@@ -24,6 +15,7 @@ Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys 
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original-wordmark.svg" alt="c" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/scikitlearn/scikitlearn-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" alt="c" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
