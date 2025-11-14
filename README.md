@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=makmalluddin&color=lightgrey)
 
 <h2>About Me</h2>
+Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys learning new technologies and solving problems through analytical thinking. With experience in electronics, computational analysis, and data-driven projects, I love exploring how technology can create practical and meaningful solutions. Right now, I’m looking for new opportunities where I can contribute, grow, and continue developing my skills in a dynamic and supportive environment. I’m always excited to collaborate, take on new challenges, and keep expanding my knowledge.
 - 👋 Hi, I’m @makmalluddin
 - 👀 I’m interested in Data Processing
 - 🌱 I’m currently learning Machine Learning
