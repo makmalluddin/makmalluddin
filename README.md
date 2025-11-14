@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/makmalluddin/makmalluddin/blob/87e9696113c4a591943da6574534495d9943349d/header.png)](https://github.com/makmalluddin/makmalluddin)
+[![MasterHead](https://github.com/makmalluddin/makmalluddin/blob/78a23799280386893b0057611964b80647fc3032/Header_1.png)](https://github.com/makmalluddin/makmalluddin)
 
 - 👋 Hi, I’m @makmalluddin
 - 👀 I’m interested in Data Processing
