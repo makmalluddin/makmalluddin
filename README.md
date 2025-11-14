@@ -20,7 +20,7 @@ Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys 
 
 <h2>Stats</h2>
 
-[![Udin GitHub stats](https://github-readme-stats.vercel.app/api?username=udin)](https://github.com/makmalluddin/github-readme-stats)
+![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=makmalluddin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!---
