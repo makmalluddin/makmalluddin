@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/makmalluddin/makmalluddin/blob/453b523fd7be181ffa6a6616265b4df28021a9bc/header_2.png)](https://github.com/makmalluddin/makmalluddin)
 ![](https://komarev.com/ghpvc/?username=makmalluddin&color=lightgrey)
 
-<h2> 🚀 About Me</h2>
+<h2>About Me</h2>
 - 👋 Hi, I’m @makmalluddin
 - 👀 I’m interested in Data Processing
 - 🌱 I’m currently learning Machine Learning
