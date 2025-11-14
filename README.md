@@ -17,6 +17,14 @@ Hello there! I’m Muhammad Akmalluddin, a fresh graduate in Physics who enjoys 
 <p align="left"> 
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" alt="c" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original-wordmark.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/scikitlearn/scikitlearn-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
 <h2>Stats</h2>
