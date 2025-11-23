@@ -18,6 +18,9 @@
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makmalluddin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makmalluddin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makmalluddin123@gmail.com) 
+
 <h2>Stats</h2>
 
 ![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=makmalluddin&show_icons=true&theme=radical&card_width=400px)
